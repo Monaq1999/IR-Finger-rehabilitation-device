@@ -47,6 +47,15 @@ Install the library by Armin Joachimsmeyer
 2.Connect the IR Receiver
 Make sure the Fasizi IR receiver’s signal pin is connected to D3, not SDA, DSCI, or servo rails incorrectly.
 
-3. Upload code 1: 
+3. Upload code 1: Setting up IR Remote and Receiver
+
+4. Open Serial Monitor
+Set baud = 9600
+Press remote buttons
+Note the hexadecimal values
+
+5. Insert the codes into main programme
+
+6. Upload main programme
 
 License: MIT License - free to use, modify, and distribute
