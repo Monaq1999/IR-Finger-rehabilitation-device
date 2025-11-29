@@ -56,6 +56,6 @@ Note the hexadecimal values
 
 5. Insert the codes into main programme
 
-6. Upload main programme
+6. Upload main programme: 2.Servo movement
 
 License: MIT License - free to use, modify, and distribute
