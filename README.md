@@ -34,4 +34,19 @@ GND/-            GND
 Servo 1        Signal Pin- D10      Power 5V + GND
 Servo 2       Signal Pin- D11      Power 5V + GND
 
+
+Setting up the IR Remote: 
+Follow these steps to correctly configure the IR remote:
+
+1. Install IRremote Library
+Open Arduino IDE
+Go to Tools → Manage Libraries
+Search for IRremote
+Install the library by Armin Joachimsmeyer
+
+2.Connect the IR Receiver
+Make sure the Fasizi IR receiver’s signal pin is connected to D3, not SDA, DSCI, or servo rails incorrectly.
+
+3. Upload code 1: 
+
 License: MIT License - free to use, modify, and distribute
